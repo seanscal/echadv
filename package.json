@@ -1,0 +1,23 @@
+{
+  "name": "echadv",
+  "version": "1.0.0",
+  "description": "Echelon Advisors Home",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seanscal/echadv.git"
+  },
+  "author": "Sean Scalabrini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seanscal/echadv/issues"
+  },
+  "homepage": "https://github.com/seanscal/echadv#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "express": "^4.13.4"
+  }
+}
